@@ -1,4 +1,5 @@
 # J2TeaM Security
+
 A browser extension to protect you from phishing and malware websites with real-time protection technology
 
 ## Installation
@@ -39,7 +40,8 @@ J2TeaM Security is free to use, but only with your donations can it remain free.
 If you like J2TeaM Security and want to help ensure its further development, please consider making a donation.
 
 - [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DKWCYWGVU9WQ6)
-- [BaoKim](#)
+- [BaoKim](https://www.baokim.vn/payment/product/version11?business=junookyo%40gmail.com&id=&order_description=A+browser+extension+to+protect+you+from+phishing+and+malware+websites+with+real-time+protection+technology&product_name=J2TeaM+Security&product_price=50000&product_quantity=1&total_amount=50000&url_cancel=https%3A%2F%2Fjunookyo.blogspot.com%2F2016%2F10%2Fj2team-security-chrome-extension.html%3Futm_source%3Dbaokim&url_detail=https%3A%2F%2Fjunookyo.blogspot.com%2F2016%2F10%2Fj2team-security-chrome-extension.html%3Futm_source%3Dbaokim&url_success=)
+- [Flattr](https://flattr.com/profile/juno_okyo)
 
 ## Credits
 
