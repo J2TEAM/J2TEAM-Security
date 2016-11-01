@@ -30,23 +30,25 @@ Extra features:
 - [x] Custom your blocklist
 - [x] Report abuse websites (from context menus)
 
-... And more features is incoming!
+... And more useful features incoming!
 
-## Contributing
+## Donations
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+J2TeaM Security is free to use, but only with your donations can it remain free.
+
+If you like J2TeaM Security and want to help ensure its further development, please consider making a donation.
+
+- [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DKWCYWGVU9WQ6)
+- [BaoKim](#)
 
 ## Credits
 
-+ Artworks: [Hoang Vu](https://www.facebook.com/hi.im.hoangvu)
-+ Stylesheet for options page: [Neo](/hiendv)
-+ Facebook Dark Theme: [pierO'nMu](http://userstyles.org/styles/118180)
-+ Google Dark Theme: [Nass O](http://userstyles.org/styles/118959)
-+ Youtube Dark Theme: [Nass O](http://userstyles.org/styles/117673)
+- Artworks: [Hoang Vu](https://www.facebook.com/hi.im.hoangvu)
+- Stylesheet for options page: [Neo](https://github.com/hiendv)
+- Facebook Object Ranking: based on bookmarklets by [Karmi Phuc](https://www.facebook.com/phucnn)
+- Facebook Dark Theme: [pierO'nMu](http://userstyles.org/styles/118180)
+- Google Dark Theme: [Nass O](http://userstyles.org/styles/118959)
+- Youtube Dark Theme: [Nass O](http://userstyles.org/styles/117673)
     
 ## License
 
