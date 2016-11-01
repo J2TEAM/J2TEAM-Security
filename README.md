@@ -5,6 +5,33 @@ A browser extension to protect you from phishing and malware websites with real-
 
 [Click here](https://chrome.google.com/webstore/detail/hmlcjjclebjnfohgmgikjfnbmfkigocc?utm_source=github) to install directly from Chrome Store.
 
+## Features
+
+Security:
+- [x] Real-time protection
+- [x] Block malware, phishing and scam websites
+- [x] Anti-Clickjacking (hidden like buttons)
+- [x] Prevent Self-XSS on Facebook
+- [x] Force HTTPS on Blogger/Blogspot
+
+Privacy on Facebook:
+- [x] Block the "seen" feature of the chat
+- [x] Block the typing indicator of the chat
+- [x] Block the typing indicator of comments
+- [x] Hide your active time in chat
+- [x] Block Facebook Pixel (tracking script)
+
+Extra features:
+- [x] Stop Facebook Timeline (on News Feed)
+- [x] Show time spend on Facebook
+- [x] Dark Theme for Facebook, Google and Youtube
+- [x] Test your security settings on Facebook
+- [x] Facebook Object Ranking
+- [x] Custom your blocklist
+- [x] Report abuse websites (from context menus)
+
+... And more features is incoming!
+
 ## Contributing
 
 1. Fork it!
