@@ -1,0 +1,233 @@
+{
+  "appName": {
+    "message": "J2TeaM Security"
+  },
+  "appShortName": {
+    "message": "J2TeaM"
+  },
+  "appDescription": {
+    "message": "Protect you from phishing and malware websites with real-time protection technology."
+  },
+  "blockPageTitle": {
+    "message": "Security error"
+  },
+  "blockPageHeading": {
+    "message": "The site ahead contains harmful programs"
+  },
+  "blockPageP1": {
+    "message": "Attackers on"
+  },
+  "blockPageP2": {
+    "message": "the page that you has just click"
+  },
+  "blockPageP3": {
+    "message": "might attempt to trick you into installing programs that harm your browsing experience (for example, by changing your homepage or showing extra ads on sites you visit)."
+  },
+  "blockPageP4": {
+    "message": "Because you are using"
+  },
+  "blockPageP5": {
+    "message": ", this site has been blocked to keep you safe!"
+  },
+  "blockedUrl": {
+    "message": "Blocked URL: "
+  },
+  "welcomeMessage": {
+    "message": "You have successfully installed. Thanks for using my extension!"
+  },
+  "security": {
+    "message": "Security"
+  },
+  "realtime": {
+    "message": "Real-time protection"
+  },
+  "onlinedb": {
+    "message": "Use online database"
+  },
+  "privacy": {
+    "message": "Privacy (on Facebook)"
+  },
+  "blockSeen": {
+    "message": "Block the \"seen\" feature of the chat"
+  },
+  "blockTypingChat": {
+    "message": "Block the typing indicator of the chat"
+  },
+  "toggleBlockSeen": {
+    "message": "Toggle the \"seen\" feature"
+  },
+  "toggleBlockTypingChat": {
+    "message": "Toggle the typing indicator"
+  },
+  "blockTypingComment": {
+    "message": "Block the typing indicator of comments"
+  },
+  "rateMe": {
+    "message": "Please rate me on Chrome Store"
+  },
+  "antiClickjacking": {
+    "message": "Anti-Clickjacking"
+  },
+  "context_menu_report_abuse": {
+    "message": "Report abuse..."
+  },
+  "context_menu_report_phishing": {
+    "message": "Phishing"
+  },
+  "context_menu_report_badware": {
+    "message": "Badware"
+  },
+  "context_menu_report_webspam": {
+    "message": "Webspam"
+  },
+  "context_menu_donate": {
+    "message": "Donate"
+  },
+  "context_menu_rate_me": {
+    "message": "Rate me on Chrome Store"
+  },
+  "extraFeatures": {
+    "message": "Extra features"
+  },
+  "facebookDarkTheme": {
+    "message": "Facebook Dark Theme (by pierO'nMu)"
+  },
+  "context_menu_report_suggest": {
+    "message": "Report or suggest"
+  },
+  "googleDarkTheme": {
+    "message": "Google Dark Theme (by Nass O)"
+  },
+  "youtubeDarkTheme": {
+    "message": "Youtube Dark Theme (by Nass O)"
+  },
+  "hideActiveTime": {
+    "message": "Hide active time in chat"
+  },
+  "blockFacebookPixel": {
+    "message": "Block Facebook Pixel (tracking script)"
+  },
+  "tools": {
+    "message": "Tools"
+  },
+  "facebookSecurityTester": {
+    "message": "Facebook security tester"
+  },
+  "checking": {
+    "message": "Checking..."
+  },
+  "safe": {
+    "message": "Safe"
+  },
+  "notSafe": {
+    "message": "Not safe"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "message": {
+    "message": "Message"
+  },
+  "upgradePremiumMessage": {
+    "message": "This feature is only available for premium users!"
+  },
+  "error": {
+    "message": "Error"
+  },
+  "context_menu_faq": {
+    "message": "Frequently Asked Questions"
+  },
+  "facebookObjectsRanking": {
+    "message": "Facebook objects ranking"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "type": {
+    "message": "Type"
+  },
+  "score": {
+    "message": "Score"
+  },
+  "darkThemeEditor": {
+    "message": "Dark Theme Editor"
+  },
+  "customCssDarkTheme": {
+    "message": "Custom CSS for Dark Themes"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "clear": {
+    "message": "Clear"
+  },
+  "customBlockList": {
+    "message": "Custom block list"
+  },
+  "customBlockListLegend": {
+    "message": "will block all websites on this list"
+  },
+  "blockList": {
+    "message": "Block list"
+  },
+  "help": {
+    "message": "Help"
+  },
+  "stopFacebookTimeline": {
+    "message": "Stop Facebook Timeline (News Feed)"
+  },
+  "facebookEmoticonsCheetSheet": {
+    "message": "Facebook Emoticons Cheet Sheet"
+  },
+  "facebookTimeCounter": {
+    "message": "Show time spend on Facebook"
+  },
+  "hintClickjacking": {
+    "message": "Block hidden like buttons on any websites"
+  },
+  "hintBlockSeen": {
+    "message": "Your friends will not know you've read their message"
+  },
+  "hintBlockTypingChat": {
+    "message": "Your friends will not be able to know when you're typing a message"
+  },
+  "hintBlockTypingComment": {
+    "message": "Your friends will not be able to know when you're typing a comment"
+  },
+  "hintBlockFacebookPixel": {
+    "message": "The Facebook pixel is a piece of JavaScript code for website that enables webmaster to measure, optimize and build audiences for ad campaigns"
+  },
+  "hintStopFacebookTimeline": {
+    "message": "Your News Feed will stop loading new contents, keep you focus on your work"
+  },
+  "hintFacebookTimeCounter": {
+    "message": "Show a clock to see how much time you spend on Facebook"
+  },
+  "about": {
+    "message": "About"
+  },
+  "followMe": {
+    "message": "Follow me"
+  },
+  "loadFromUrl": {
+    "message": "Load from URL"
+  },
+  "load": {
+    "message": "Load"
+  },
+  "invalidRequestBlocked": {
+    "message": "Invalid request has been blocked to prevent Self-XSS!"
+  },
+  "blockSelfXSS": {
+    "message": "Block Self-XSS on Facebook"
+  },
+  "pipPlayerMenu": {
+    "message": "Play this video in PiP mode"
+  }
+}

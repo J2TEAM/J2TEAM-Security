@@ -1,0 +1,233 @@
+{
+  "appName": {
+    "message": "J2TeaM Security"
+  },
+  "appShortName": {
+    "message": "J2TeaM"
+  },
+  "appDescription": {
+    "message": "Bảo vệ bạn khỏi những trang lừa đảo và chứa mã độc bằng công nghệ bảo vệ theo thời gian thực."
+  },
+  "blockPageTitle": {
+    "message": "Lỗi bảo mật"
+  },
+  "blockPageHeading": {
+    "message": "Trang web sắp truy cập chứa chương trình độc hại"
+  },
+  "blockPageP1": {
+    "message": "Những kẻ tấn công trên trang"
+  },
+  "blockPageP2": {
+    "message": "bạn vừa click"
+  },
+  "blockPageP3": {
+    "message": "có thể đánh lừa bạn cài đặt các chương trình ảnh hưởng đến trải nghiệm duyệt web của bạn (ví dụ: bằng cách thay đổi trang chủ của bạn hoặc hiển thị thêm quảng cáo trên các trang bạn truy cập)."
+  },
+  "blockPageP4": {
+    "message": "Vì bạn sử dụng"
+  },
+  "blockPageP5": {
+    "message": " nên trang này đã bị chặn lại để giữ bạn an toàn!"
+  },
+  "blockedUrl": {
+    "message": "URL đã bị chặn: "
+  },
+  "welcomeMessage": {
+    "message": "Bạn đã cài đặt thành công. Cảm ơn vì sử dụng sản phẩm của Juno_okyo!"
+  },
+  "security": {
+    "message": "Bảo mật"
+  },
+  "realtime": {
+    "message": "Bảo vệ theo thời gian thực"
+  },
+  "onlinedb": {
+    "message": "Sử dụng cơ sở dữ liệu online"
+  },
+  "privacy": {
+    "message": "Quyền riêng tư (trên Facebook)"
+  },
+  "blockSeen": {
+    "message": "Chặn \"đã xem\" trong trò chuyện"
+  },
+  "blockTypingChat": {
+    "message": "Chặn \"đang trả lời...\" trong trò chuyện"
+  },
+  "toggleBlockSeen": {
+    "message": "Tắt/bật chặn \"đã xem\""
+  },
+  "toggleBlockTypingChat": {
+    "message": "Tắt/bật chặn \"đang trả lời...\""
+  },
+  "blockTypingComment": {
+    "message": "Chặn \"đang trả lời...\" khi bình luận"
+  },
+  "rateMe": {
+    "message": "Đánh giá tiện ích này trên Chrome Store"
+  },
+  "antiClickjacking": {
+    "message": "Chặn Clickjacking"
+  },
+  "context_menu_report_abuse": {
+    "message": "Báo cáo lạm dụng..."
+  },
+  "context_menu_report_phishing": {
+    "message": "Lừa đảo (phishing)"
+  },
+  "context_menu_report_badware": {
+    "message": "Phần mềm độc hại"
+  },
+  "context_menu_report_webspam": {
+    "message": "Webspam"
+  },
+  "context_menu_donate": {
+    "message": "Ủng hộ tác giả"
+  },
+  "context_menu_rate_me": {
+    "message": "Đánh giá trên Chrome Store"
+  },
+  "extraFeatures": {
+    "message": "Tính năng mở rộng"
+  },
+  "facebookDarkTheme": {
+    "message": "Facebook Dark Theme (bởi pierO'nMu)"
+  },
+  "context_menu_report_suggest": {
+    "message": "Báo lỗi hoặc góp ý"
+  },
+  "googleDarkTheme": {
+    "message": "Google Dark Theme (bởi Nass O)"
+  },
+  "youtubeDarkTheme": {
+    "message": "Youtube Dark Theme (bởi Nass O)"
+  },
+  "hideActiveTime": {
+    "message": "Ẩn thời gian hoạt động trong trò chuyện"
+  },
+  "blockFacebookPixel": {
+    "message": "Chặn Facebook Pixel (mã theo dõi)"
+  },
+  "tools": {
+    "message": "Công cụ"
+  },
+  "facebookSecurityTester": {
+    "message": "Kiểm tra bảo mật Facebook"
+  },
+  "checking": {
+    "message": "Đang kiểm tra..."
+  },
+  "safe": {
+    "message": "An toàn"
+  },
+  "notSafe": {
+    "message": "Không an toàn"
+  },
+  "settings": {
+    "message": "Thiết lập"
+  },
+  "status": {
+    "message": "Trạng thái"
+  },
+  "message": {
+    "message": "Tin nhắn"
+  },
+  "upgradePremiumMessage": {
+    "message": "Tính năng này chỉ dành cho người dùng trả phí!"
+  },
+  "error": {
+    "message": "Lỗi"
+  },
+  "context_menu_faq": {
+    "message": "Câu hỏi thường gặp"
+  },
+  "facebookObjectsRanking": {
+    "message": "Xếp hạng đối tượng trên Facebook"
+  },
+  "name": {
+    "message": "Tên"
+  },
+  "type": {
+    "message": "Loại"
+  },
+  "score": {
+    "message": "Điểm"
+  },
+  "darkThemeEditor": {
+    "message": "Dark Theme Editor"
+  },
+  "customCssDarkTheme": {
+    "message": "Tùy chỉnh CSS cho Dark Theme"
+  },
+  "website": {
+    "message": "Trang web"
+  },
+  "save": {
+    "message": "Lưu lại"
+  },
+  "clear": {
+    "message": "Xóa tất cả"
+  },
+  "customBlockList": {
+    "message": "Tùy chỉnh danh sách chặn"
+  },
+  "customBlockListLegend": {
+    "message": "sẽ chặn toàn bộ trang web trong danh sách này"
+  },
+  "blockList": {
+    "message": "Danh sách chặn"
+  },
+  "help": {
+    "message": "Hướng dẫn"
+  },
+  "stopFacebookTimeline": {
+    "message": "Dừng dòng thời gian trên Facebook"
+  },
+  "facebookEmoticonsCheetSheet": {
+    "message": "Danh sách biểu tượng cảm xúc Facebook"
+  },
+  "facebookTimeCounter": {
+    "message": "Hiển thị thời gian truy cập Facebook"
+  },
+  "hintClickjacking": {
+    "message": "Chặn các nút Like ẩn trên mọi trang web"
+  },
+  "hintBlockSeen": {
+    "message": "Bạn bè của bạn sẽ không thể biết bạn đã đọc tin nhắn của họ"
+  },
+  "hintBlockTypingChat": {
+    "message": "Bạn bè của bạn sẽ không thể biết khi nào bạn đang gõ tin nhắn"
+  },
+  "hintBlockTypingComment": {
+    "message": "Bạn bè của bạn sẽ không thể biết khi nào bạn đang gõ bình luận"
+  },
+  "hintBlockFacebookPixel": {
+    "message": "Facebook pixel là một đoạn mã JavaScript cho các trang web cho phép quản trị viên đo lường, tối ưu và tạo đối tượng cho các chiến dịch quảng cáo"
+  },
+  "hintStopFacebookTimeline": {
+    "message": "News Feed của bạn sẽ dừng tải thêm nội dung mới, giúp bạn tập trung vào công việc"
+  },
+  "hintFacebookTimeCounter": {
+    "message": "Hiển thị một đồng hồ để xem bạn dành ra bao nhiêu thời gian vào Facebook"
+  },
+  "about": {
+    "message": "Thông tin"
+  },
+  "followMe": {
+    "message": "Theo dõi tác giả"
+  },
+  "loadFromUrl": {
+    "message": "Nạp từ URL"
+  },
+  "load": {
+    "message": "Nạp"
+  },
+  "invalidRequestBlocked": {
+    "message": "Truy vấn không hợp lệ đã bị chặn lại để bảo vệ bạn khỏi Self-XSS!"
+  },
+  "blockSelfXSS": {
+    "message": "Chặn Self-XSS trên Facebook"
+  },
+  "pipPlayerMenu": {
+    "message": "Phát video này trong chế độ PiP"
+  }
+}
