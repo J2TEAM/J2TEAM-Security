@@ -16,7 +16,7 @@ A browser extension to protect you from phishing and malware websites with real-
 ## Credits
 
 + Artworks: [Hoang Vu](https://www.facebook.com/hi.im.hoangvu)
-+ Stylesheet for options page: Neo (@hiendv)
++ Stylesheet for options page: [Neo](/hiendv)
 + Facebook Dark Theme: [pierO'nMu](http://userstyles.org/styles/118180)
 + Google Dark Theme: [Nass O](http://userstyles.org/styles/118959)
 + Youtube Dark Theme: [Nass O](http://userstyles.org/styles/117673)
