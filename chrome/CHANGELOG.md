@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.40 - 2016-11-06
+### Added
+- Open the home page when users uninstall the extension.
+- Now users can upgrade to a Premium account to [get more features](http://code.junookyo.xyz/j2team-security/premium-upgrade/).
+
+### Changed
+- Skip blocking [Self-XSS](https://www.facebook.com/selfxss) on m.facebook.com (reported by [Hoàng Vũ](https://www.facebook.com/HoangVu.0711))
+- Facebook Clock (appear next to the Home button) will auto-sync every 30 seconds instead of 1 second for better performance.
+
 ## 0.0.39 - 2016-11-02
 ### Added
 - Show notify when extension update to new version. The user can click on the notify to see the changes in new version.
