@@ -229,5 +229,14 @@
   },
   "pipPlayerMenu": {
     "message": "Play this video in PiP mode"
+  },
+  "updateMessage": {
+    "message": "{appName} has just updated to version {appVersion}. Click here to see the changes in this release!"
+  },
+  "upgradeToPremium": {
+    "message": "Upgrade to Premium"
+  },
+  "context_menu_help": {
+    "message": "Help"
   }
 }

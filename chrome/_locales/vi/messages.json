@@ -229,5 +229,14 @@
   },
   "pipPlayerMenu": {
     "message": "Phát video này trong chế độ PiP"
+  },
+  "updateMessage": {
+    "message": "{appName} vừa cập nhật lên phiên bản {appVersion}. Nhấn để xem những thay đổi trong phiên bản này!"
+  },
+  "upgradeToPremium": {
+    "message": "Nâng cấp lên tài khoản Premium"
+  },
+  "context_menu_help": {
+    "message": "Hỗ trợ"
   }
 }
