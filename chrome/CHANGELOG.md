@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.42 - 2016-11-08
+### Changed
+- Hide GitHub corner for Premium users.
+
+## 0.0.41 - 2016-11-08
+### Added
+- [Facebook Group Manager](http://code.junookyo.xyz/j2team-security/facebook-group-manager/) (Premium features).
+
 ## 0.0.40 - 2016-11-06
 ### Added
 - Open the home page when users uninstall the extension.
