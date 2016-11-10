@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.47 - 2016-11-10
+### Changed
+- Facebook Kount: Improve the algorithm.
+- Facebook Group Manager (Premium feature): fix the leave group function.
+
 ## 0.0.46 - 2016-11-10
 ### Changed
 - Check API definition on the Premium page to prevent error (reported by [Đức Đỗ](https://www.facebook.com/ducdo.hct)).
