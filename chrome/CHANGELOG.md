@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.46 - 2016-11-10
+### Changed
+- Check API definition on the Premium page to prevent error (reported by [Đức Đỗ](https://www.facebook.com/ducdo.hct)).
+- Facebook Kount: Improve the algorithm.
+
 ## 0.0.45 - 2016-11-10
 ### Changed
 - Facebook Security Tester, Facebook Object Ranking and Facebook Kount: Check Facebook login status before execute the main function.
