@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.45 - 2016-11-10
+### Changed
+- Facebook Security Tester, Facebook Object Ranking and Facebook Kount: Check Facebook login status before execute the main function.
+- Disable context menus on invalid URLs ("chrome:" or "file:" protocol).
+
 ## 0.0.44 - 2016-11-10
 ### Added
 - Link to changelog on context menus.
