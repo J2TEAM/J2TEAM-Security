@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.44 - 2016-11-10
+### Added
+- Link to changelog on context menus.
+
+### Changed
+- Update link to JavaScript file on the Facebook Kount page.
+
+## 0.0.43 - 2016-11-10
+### Added
+- [Facebook Kount](https://www.youtube.com/watch?v=_XvF-H4LHNM) - Message statistics.
+
+### Changed
+- The "Block Facebook Timeline" feature now works on mobile domains.
+
 ## 0.0.42 - 2016-11-08
 ### Changed
 - Hide GitHub corner for Premium users.
