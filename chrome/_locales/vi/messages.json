@@ -238,5 +238,29 @@
   },
   "context_menu_help": {
     "message": "Hỗ trợ"
+  },
+  "rank": {
+    "message": "Thứ hạng"
+  },
+  "gender": {
+    "message": "Giới tính"
+  },
+  "conversations": {
+    "message": "Tổng số tin nhắn"
+  },
+  "male": {
+    "message": "Nam"
+  },
+  "female": {
+    "message": "Nữ"
+  },
+  "facebookKount": {
+    "message": "Thống kê tin nhắn Facebook"
+  },
+  "premiumAccess": {
+    "message": "Truy cập trang Premium"
+  },
+  "context_menu_changelog": {
+    "message": "Xem nhật ký thay đổi"
   }
 }

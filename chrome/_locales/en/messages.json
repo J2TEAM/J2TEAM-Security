@@ -238,5 +238,29 @@
   },
   "context_menu_help": {
     "message": "Help"
+  },
+  "rank": {
+    "message": "Rank"
+  },
+  "gender": {
+    "message": "Gender"
+  },
+  "conversations": {
+    "message": "Conversations"
+  },
+  "male": {
+    "message": "Male"
+  },
+  "female": {
+    "message": "Female"
+  },
+  "facebookKount": {
+    "message": "Facebook Kount"
+  },
+  "premiumAccess": {
+    "message": "Access to Premium areas"
+  },
+  "context_menu_changelog": {
+    "message": "View changelog"
   }
 }
