@@ -262,5 +262,8 @@
   },
   "context_menu_changelog": {
     "message": "Xem nhật ký thay đổi"
+  },
+  "facebookLoginError": {
+    "message": "Bạn chưa đăng nhập Facebook"
   }
 }
