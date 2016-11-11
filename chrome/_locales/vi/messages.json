@@ -265,5 +265,17 @@
   },
   "facebookLoginError": {
     "message": "Bạn chưa đăng nhập Facebook"
+  },
+  "userInfo": {
+    "message": "Thông Tin Người Dùng"
+  },
+  "accountType": {
+    "message": "Loại Tài Khoản"
+  },
+  "freeTools": {
+    "message": "Công Cụ Miễn Phí"
+  },
+  "sponsor": {
+    "message": "Nhà Tài Trợ"
   }
 }

@@ -265,5 +265,17 @@
   },
   "facebookLoginError": {
     "message": "You are not logged in Facebook"
+  },
+  "userInfo": {
+    "message": "User Information"
+  },
+  "accountType": {
+    "message": "Account Type"
+  },
+  "freeTools": {
+    "message": "Free Tools"
+  },
+  "sponsor": {
+    "message": "Sponsor"
   }
 }
