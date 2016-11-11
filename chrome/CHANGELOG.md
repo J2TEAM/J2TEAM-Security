@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
-## 0.0.47 - 2016-11-11
+## 0.0.48 - 2016-11-11
 ### Changed
 - Change the UI of the Free tools to fit with the Premium tools.
 
