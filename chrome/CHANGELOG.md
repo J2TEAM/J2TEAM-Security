@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.49 - 2016-11-12
+### Added
+- Facebook Kount Premium.
+
+### Changed
+- Facebook Kount: Improve the algorithm.
+
 ## 0.0.48 - 2016-11-11
 ### Changed
 - Change the UI of the Free tools to fit with the Premium tools.
