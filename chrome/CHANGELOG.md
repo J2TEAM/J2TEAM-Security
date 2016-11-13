@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.51 - 2016-11-13
+### Changed
+- Facebook Clock: handle DOM error if cannot find the blue bar.
+- Minor changes in the content script.
+
 ## 0.0.50 - 2016-11-12
 ### Changed
 - Facebook Kount: Improve the algorithm.
