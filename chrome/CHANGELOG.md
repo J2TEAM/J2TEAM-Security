@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.52 - 2016-11-14
+### Added
+- Now the users can change the language via the context menu (Help > Change language).
+- Option to toggle notifications when updated to new version.
+- Facebook Friends Manager (Premium feature).
+
 ## 0.0.51 - 2016-11-13
 ### Changed
 - Facebook Clock: handle DOM error if cannot find the blue bar.
