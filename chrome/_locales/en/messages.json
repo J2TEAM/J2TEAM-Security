@@ -277,5 +277,11 @@
   },
   "sponsor": {
     "message": "Sponsor"
+  },
+  "context_menu_change_language": {
+    "message": "Change language"
+  },
+  "showUpdateNotification": {
+    "message": "Show update notification"
   }
 }

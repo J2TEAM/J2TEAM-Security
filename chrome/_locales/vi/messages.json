@@ -277,5 +277,11 @@
   },
   "sponsor": {
     "message": "Nhà Tài Trợ"
+  },
+  "context_menu_change_language": {
+    "message": "Thay đổi ngôn ngữ"
+  },
+  "showUpdateNotification": {
+    "message": "Hiển thị thông báo cập nhật"
   }
 }
