@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.53 - 2016-11-15
+### Added
+- [Block auto check-in on Facebook](https://www.youtube.com/watch?v=ZktcOM4MIk0) (privacy options).
+- Facebook Pages Manager (Premium feature).
+
+### Changed
+- Auto change read status when the user sent a message. So, Facebook will not show a lot of unread messages on mobile.
+
 ## 0.0.52 - 2016-11-14
 ### Added
 - Now the users can change the language via the context menu (Help > Change language).
