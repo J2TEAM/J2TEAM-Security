@@ -283,5 +283,14 @@
   },
   "showUpdateNotification": {
     "message": "Show update notification"
+  },
+  "facebookCheckinBlockedNotify": {
+    "message": "The request has blocked due to reveal your location. Change the privacy options if you want to continue!"
+  },
+  "blockFacebookAutoCheckin": {
+    "message": "Block auto check-in"
+  },
+  "hintBlockFacebookAutoCheckin": {
+    "message": "Stop Facebook from auto-sharing your location"
   }
 }

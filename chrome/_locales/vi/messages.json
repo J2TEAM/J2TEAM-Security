@@ -283,5 +283,14 @@
   },
   "showUpdateNotification": {
     "message": "Hiển thị thông báo cập nhật"
+  },
+  "facebookCheckinBlockedNotify": {
+    "message": "Truy vấn đã bị chặn vì làm lộ vị trí của bạn. Thay đổi tùy chọn quyền riêng tư nếu bạn vẫn muốn tiếp tục!"
+  },
+  "blockFacebookAutoCheckin": {
+    "message": "Chặn tự động đánh dấu vị trí (check-in)"
+  },
+  "hintBlockFacebookAutoCheckin": {
+    "message": "Ngăn Facebook tự động chia sẻ vị trí của bạn"
   }
 }
