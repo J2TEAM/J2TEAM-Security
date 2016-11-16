@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 - [Block auto check-in on Facebook](https://www.youtube.com/watch?v=ZktcOM4MIk0) (privacy options).
 - Facebook Pages Manager (Premium feature).
+- Facebook Video Downloader (Premium feature).
 
 ### Changed
 - Auto change read status when the user sent a message. So, Facebook will not show a lot of unread messages on mobile.
