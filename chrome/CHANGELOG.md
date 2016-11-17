@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.54 - 2016-11-17
+### Added
+- Dashboard for [Premium users](http://code.junookyo.xyz/j2team-security/premium-upgrade/).
+
 ## 0.0.53 - 2016-11-15
 ### Added
 - [Block auto check-in on Facebook](https://www.youtube.com/watch?v=ZktcOM4MIk0) (privacy options).
@@ -13,7 +17,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - Facebook Video Downloader (Premium feature).
 
 ### Changed
-- Auto change read status when the user sent a message. So, Facebook will not show a lot of unread messages on mobile.
+- Auto changes the read status of the previous messages when users send a new message. This will make Facebook stops showing too many notifications of new messages on mobile.
 
 ## 0.0.52 - 2016-11-14
 ### Added
