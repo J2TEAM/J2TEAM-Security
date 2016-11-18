@@ -1,0 +1,6 @@
+https://*.facebook.com/ads/growth/aymt/homepage_panel/*
+https://*.facebook.com/xti.php?*
+https://*.facebook.com/common/referer_frame.php*
+https://*.facebook.com/sem_campaigns/sem_pixel_test/*
+https://pixel.facebook.com/*
+*://*.doubleclick.net/*
