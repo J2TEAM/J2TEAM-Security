@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## Unreleased
 ...
 
+## 0.0.55 - 2016-11-21
+### Added
+- Block malicious files sent via Messenger/Chat on Facebook. [Click here to read more!](https://junookyo.blogspot.com/2016/11/ma-doc-facebook-qua-tin-nhan.html?utm_source=changelog)
+
 ## 0.0.54 - 2016-11-17
 ### Added
 - Dashboard for [Premium users](http://code.junookyo.xyz/j2team-security/premium-upgrade/).
