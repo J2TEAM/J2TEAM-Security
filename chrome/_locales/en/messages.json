@@ -292,5 +292,8 @@
   },
   "hintBlockFacebookAutoCheckin": {
     "message": "Stop Facebook from auto-sharing your location"
+  },
+  "blockMalwareFileNotify": {
+    "message": "The download process was blocked due to detection of dangerous files"
   }
 }

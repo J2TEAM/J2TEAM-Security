@@ -292,5 +292,8 @@
   },
   "hintBlockFacebookAutoCheckin": {
     "message": "Ngăn Facebook tự động chia sẻ vị trí của bạn"
+  },
+  "blockMalwareFileNotify": {
+    "message": "Tiến trình tải về đã bị chặn do phát hiện tập tin chứa mã độc"
   }
 }
